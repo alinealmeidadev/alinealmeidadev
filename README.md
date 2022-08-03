@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinealmeidadev&label=Profile%20views&color=0e75b6&style=flat" alt="alinealmeidadev" /> </p>
 
-- 👨‍💻 Meus projetos estão disponíveis no site [alinealmeida.tech](alinealmeida.tech)
+- 👨‍💻 Meus projetos estão disponíveis no site [www.alinealmeida.tech](www.alinealmeida.tech)
 
 - 📫 Meus contatos são **alinealmeidadev@gmail.com / 11.93254-4957**
 
