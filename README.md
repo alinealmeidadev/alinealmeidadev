@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 Eu sou a Aline</h1>
-<h3 align="center">Sou estudante de programação, com foco em desenvolvimento web.</h3>
+<h3 align="center">Sou estudante de desenvolvimento web, com foco em front-end.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinealmeidadev&label=Profile%20views&color=0e75b6&style=flat" alt="alinealmeidadev" /> </p>
 
